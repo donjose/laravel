@@ -1,0 +1,4 @@
+1) Create a migrations
+2) Create a Admin model by duplicating User model, add protected $guard = 'admin';
+3) config/auth.php - create guards, providers, password_resets for admin
+4)
